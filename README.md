@@ -27,13 +27,15 @@
 ###
 
 - 👨‍💻 I'm `Front End Developer`
-- 📫 I’m currently studying `PHP` and `Laravel`
-- 💼 I'm currently `looking for a job`
-- 📙 Always `learning new things`
+- 📫 I’m currently studying **`PHP`** and **`Laravel`**
+- 💼 I'm currently **`looking for a job`**
+- 📙 Always **`learning new things`**
+- 💻 I provide educational content on **`YouTube`**
+- 🤝 I’m looking to collaborate on **`Open Source Projects`**
 
 ###
 
-<hr>
+<br><hr>
 <h3 align="left">🛠 Language and tools</h3>
 <br>
 
