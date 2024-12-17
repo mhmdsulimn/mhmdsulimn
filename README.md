@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">⚡ About Me</h2><br>
+<h2 align="left">📚 About Me</h2>
 
 ###
 
@@ -30,8 +30,7 @@
 
 ###
 
-<br>
-<h2 align="left">🛠 Language and tools</h2><br>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -57,8 +56,7 @@
 
 ###
 
-<br>
-<h2 align="left">🔥   My Stats :</h2><br>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -66,6 +64,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img alt="mhmdsolimn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhmdsolimn&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdsolimn&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mhmdsolimn" height="230px"/>
-<br/><hr>
+<br/>
 
 ###
