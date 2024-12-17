@@ -22,6 +22,7 @@
 
 ###
 
+<br><hr>
 <h3 align="left">⚡ About Me</h3><hr>
 
 ###
@@ -32,6 +33,7 @@
 
 ###
 
+<br><hr>
 <h3 align="left">🛠 Language and tools</h3><hr>
 
 ###
@@ -58,16 +60,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3><hr>
+<br><hr>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdsolimn&show_icons=true&locale=en&&layout=compact" alt="mhmdsolimn" /></p> -->
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
-  <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
-<br/>
+	<img alt="mhmdsolimn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhmdsolimn&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdsolimn&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mhmdsolimn" height="230px"/>
+<br/><hr>
