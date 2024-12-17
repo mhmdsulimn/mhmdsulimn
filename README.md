@@ -23,7 +23,7 @@
 ###
 
 <br><hr>
-<h3 align="left">⚡ About Me</h3><hr>
+<h3 align="left">⚡ About Me</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 ###
 
 <br><hr>
-<h3 align="left">🛠 Language and tools</h3><hr>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
