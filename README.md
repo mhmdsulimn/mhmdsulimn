@@ -26,7 +26,7 @@
 
 ###
 
-- 👨‍💻 I'm `Front End Developer`
+- 👨‍💻 I'm **`Front End Developer`**
 - 📫 I’m currently studying **`PHP`** and **`Laravel`**
 - 💼 I'm currently **`looking for a job`**
 - 📙 Always **`learning new things`**
