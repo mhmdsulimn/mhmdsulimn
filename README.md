@@ -26,7 +26,9 @@
 
 ###
 
-<p align="left">I'm Mohamed Soliman<br><br>- I’m Front End Developer 👨‍💻✨</p>
+<!--- <p align="left">I'm Mohamed Soliman<br><br>- I’m Front End Developer 👨‍💻✨</p> -->
+
+- 👨‍💻 I'm `Front End Developer`
 
 ###
 
