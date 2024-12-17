@@ -59,3 +59,5 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<title id="titleId">Mohamed Soliman's GitHub Stats, Rank: B+</title>
+<desc id="descId">Total Stars Earned: 54, Total Commits in 2024 : 55, Total PRs: 82, Total Issues: 40, Contributed to (last year): 1</desc>
