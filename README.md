@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Mohamed Soliman</h1><hr>
+<h1 align="center">Hi 👋, I'm Mohamed Soliman</h1>
 
 ###
 
@@ -67,7 +67,7 @@
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img alt="mhmdsolimn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhmdsolimn&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdsolimn&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mhmdsolimn" height="230px" width="200px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdsolimn&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mhmdsolimn" width="200px" height="230px"/>
 <br/><hr> 
 
 ###
