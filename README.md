@@ -22,7 +22,6 @@
 
 ###
 
-<hr>
 <h2 align="left">⚡ About Me</h2><br>
 
 ###
@@ -31,7 +30,7 @@
 
 ###
 
-<br><hr>
+<br>
 <h2 align="left">🛠 Language and tools</h2><br>
 
 ###
@@ -58,7 +57,7 @@
 
 ###
 
-<br><hr>
+<br>
 <h2 align="left">🔥   My Stats :</h2><br>
 
 ###
