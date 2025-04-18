@@ -5,11 +5,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@mhmdsulimn" target="_blank">
+  <a href="https://www.youtube.com/@mhmdsulimn" target="_top">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
 	
-  <a href="https://tiktok.com/mhmdsulimn" target="_blank">
+  <a href="https://tiktok.com/mhmdsulimn" target="_top">
     <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
   </a>
   
