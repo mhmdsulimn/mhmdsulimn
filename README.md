@@ -88,6 +88,18 @@
   <p align="center">
     <img height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdsulimn&hide_border=false&langs_count=10&show_icons=true&locale=en&theme=tokyonight" />
 </details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 10</li>
+	    <li><b>Laptop: </b> hp EliteBook G2</li>
+  	    <li><b>Browser: </b> Brave & Yandex</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	</ul>
+</details>
+
 <br/><hr>
 
 ###
