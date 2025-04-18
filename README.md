@@ -1,5 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdsulimn&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
-<p align="left"> <img src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github" alt="followers" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mhmdsulimn&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github" alt="followers" />
+</p>
 
 <div align="center">
   <img width="100%" src="mhmdsulimn.gif"/>
