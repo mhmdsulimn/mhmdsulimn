@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif"  />
+  <img width="100%" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif"  />
 </div>
 
 ###
