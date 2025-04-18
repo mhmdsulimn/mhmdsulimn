@@ -71,7 +71,7 @@
 ###
 
   <details>
-    <summary><b>🔥 Status</b></summary>
+    <summary><b>🔥 Github Status</b></summary>
 
    <br>
 
@@ -79,6 +79,13 @@
       <img alt="mhmdsulimn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhmdsulimn&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" width="500px" height="230px"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdsulimn&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mhmdsulimn" width="300px" height="230px"/>
   </details>
+
+  <details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdsulimn&hide_border=true&langs_count=10&show_icons=true&locale=en&theme=tokyonight" />
+</details>
 <br/><hr>
 
 ###
