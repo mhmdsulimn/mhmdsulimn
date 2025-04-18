@@ -54,14 +54,13 @@
 ###
 
 <div align="left">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  /> -->
   <img src="https://github.com/user-attachments/assets/9b00f4cd-5ebb-4a40-8fd9-77f064e3afb0" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://github.com/user-attachments/assets/21135d55-e909-43cc-8728-4117988ec0b0" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://github.com/user-attachments/assets/f9ff81e5-4fd8-4a29-9a38-1dc02d3fb661" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img src="https://github.com/user-attachments/assets/40adb3b0-de2c-4819-b4c6-05d623fc740b" height="50" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
   <img width="12" />
