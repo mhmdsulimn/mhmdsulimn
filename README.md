@@ -42,7 +42,7 @@
 - 💼 I'm currently **`looking for a job`**
 - 📙 Always **`learning new things`**
 - 💻 I provide educational content on **`YouTube`**
-  <!-- - 📫 How to reach me **mhmdsulimn.dev@gmail.com** -->
+- 📫 How to reach me **mhmdsulimn.dev@gmail.com**
 - 🤝 I’m looking to collaborate on **`Open Source Projects`**
 
 ###
@@ -58,29 +58,29 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/21135d55-e909-43cc-8728-4117988ec0b0" height="50" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
+  <img width="12" />
   <img src="https://github.com/user-attachments/assets/f9ff81e5-4fd8-4a29-9a38-1dc02d3fb661" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/40adb3b0-de2c-4819-b4c6-05d623fc740b" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
+  <img src="https://github.com/user-attachments/assets/34f5d324-c3a1-49e7-a8e5-0707f14e19c5" height="50" alt="json logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/734c00d0-5095-4c7b-bdf5-ddab6ab715c9" height="50" alt="github logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/db0024f6-e4e9-4dd0-9b8c-3d58de1c4631" height="50" alt="terminal logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/34f5d324-c3a1-49e7-a8e5-0707f14e19c5" height="50" alt="json logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/db0024f6-e4e9-4dd0-9b8c-3d58de1c4631" height="50" alt="terminal logo"  />
 </div>
 
 ###
