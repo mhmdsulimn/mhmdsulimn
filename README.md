@@ -1,8 +1,11 @@
+<img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mhmdsulimn&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/mhmdsulimn?color=4C1&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square" alt="update" />
 </p>
+
 
 <div align="center">
   <img width="100%" src="mhmdsulimn.gif"/>
@@ -32,9 +35,11 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Mohamed Suliman</h1>
 
+<img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
+
 ###
 
-<p><img width="250px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img width="250px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
 <h3 align="left">📚 About Me</h3>
 
@@ -50,7 +55,7 @@
 
 ###
 
-<br><hr>
+<br><img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
 <h3 align="left">🛠 Language and tools</h3>
 <br>
 
@@ -90,7 +95,7 @@
 
 ###
 
-<br><hr>
+<br><img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
 <h3 align="left">⚡ Projects and Dev Stuffs:</h3>
 <br>
 
@@ -126,7 +131,8 @@
 	</ul>
 </details>
 
-<br/><hr>
+<br/>
+<img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
 
 ###
 
@@ -135,3 +141,5 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
