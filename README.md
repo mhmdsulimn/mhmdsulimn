@@ -80,8 +80,8 @@
 ###
 
   <p align="center">
-	<img alt="mhmdsulimn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhmdsulimn&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" width="500px" height="230px"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdsulimn&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mhmdsulimn" width="300px" height="230px"/>
+	<img alt="mhmdsulimn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhmdsulimn&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" width="100%" height="230px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdsulimn&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mhmdsulimn" width="100%" height="230px"/>
 <br/><hr>
 
 ###
