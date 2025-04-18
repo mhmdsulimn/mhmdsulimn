@@ -1,6 +1,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mhmdsulimn&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/followers/mhmdsulimn?color=4C1&logo=github" alt="followers" />
 </p>
 
 <div align="center">
