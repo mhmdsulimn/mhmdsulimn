@@ -1,4 +1,3 @@
-<img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mhmdsulimn&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
@@ -34,8 +33,6 @@
 ###
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Mohamed Suliman</h1>
-
-<img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
 
 ###
 
@@ -141,5 +138,3 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-<img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
