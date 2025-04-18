@@ -24,7 +24,6 @@
 
 ###
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
 <h1 align="center">Hi 👋, I'm Mohamed Suliman</h1>
 
 ###
