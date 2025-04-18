@@ -84,7 +84,9 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdsulimn&hide_border=false&langs_count=10&show_icons=true&locale=en&theme=tokyonight" />
+  
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdsulimn&hide_border=false&langs_count=10&show_icons=true&locale=en&theme=tokyonight" />
 </details>
 <br/><hr>
 
