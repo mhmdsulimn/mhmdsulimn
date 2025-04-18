@@ -36,7 +36,7 @@
 - 💼 I'm currently **`looking for a job`**
 - 📙 Always **`learning new things`**
 - 💻 I provide educational content on **`YouTube`**
-- 📫 How to reach me **mhmdsulimn.dev@gmail.com**
+<!-- - 📫 How to reach me **mhmdsulimn.dev@gmail.com** -->
 - 🤝 I’m looking to collaborate on **`Open Source Projects`**
 
 ###
