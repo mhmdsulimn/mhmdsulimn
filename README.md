@@ -71,7 +71,7 @@
 ###
 
   <details>
-    <summary><b>🔥 Github Status</b></summary>
+    <summary><b>🔥 Github Stats</b></summary>
 
    <br>
 
