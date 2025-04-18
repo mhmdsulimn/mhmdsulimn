@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif"  />
+  <img width="100%" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"  />
 </div>
 
 ###
