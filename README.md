@@ -19,7 +19,7 @@
   </a>
 	
   <a href="https://tiktok.com/mhmdsulimn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
+    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=252529&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
   </a>
   
   <a href="https://t.me/mhmdsulimn" target="_blank">
