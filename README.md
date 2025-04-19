@@ -37,7 +37,7 @@
 
 ###
 
-<p><img width="250px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
+<p><img width="300px" align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif"/></p>
 
 <h3 align="left">📚 About Me</h3>
 
