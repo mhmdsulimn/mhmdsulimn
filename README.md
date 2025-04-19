@@ -152,6 +152,8 @@
 ``` html
 <div style="display: flex; align-items: center; gap: 30px; justify-content: space-between; background-color: #0f0f0f; width: 500px; height: 70px; border-radius: 15px; padding: 10px 20px; box-shadow: 0 0 10px 1px #ffffff21; margin: 20px auto; border: 1px solid #ffffff21;"> <div style="display: flex; align-items: center; gap: 15px;"> <img style="width: 50px; height: 50px; border-radius: 50%; border: 2px solid #00a6ec;" src="https://yt3.googleusercontent.com/VojBwznR4wi8IqYFPSntpFvm-Em3tI5uz6EzDnYday9ponkeT7fybPcT7qufhpUHSQL6Af8fdgA=s120-c-k-c0x00ffffff-no-rj" alt="MS Logo"> <div> <h2 style="padding: 0; margin: 0; font-family: sans-serif; font-weight: bolder; font-size: 22px; color: white;">Mohamed Suliman</h2> <p style="padding: 0; margin: 0; font-family: sans-serif; color: gray; font-size: 14px;">@mhmdsulimn</p> </div> </div> <a style="text-decoration: none; color: white;" href="https://www.youtube.com/@mhmdsulimn"> <button style="padding: 7px 12px; background-color: whitesmoke; border: 1px solid #00000011; color: black; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 14px; display: flex; align-items: center;"> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" alt="YT Logo" style="width: 20px; height: 20px; margin-right: 5px;"> Subscribe </button> </a> </div>
 ```
+
+<br>
 </details>
 
 <details>
@@ -168,6 +170,8 @@
 ``` html
 <div style="display: flex; align-items: center; gap: 30px; justify-content: space-between; background-color: #0f0f0f; width: 500px; height: 70px; border-radius: 15px; padding: 10px 20px; box-shadow: 0 0 10px 1px #ffffff21; margin: 20px auto; border: 1px solid #ffffff21;"> <div style="display: flex; align-items: center; gap: 15px;"> <img style="width: 50px; height: 50px; border-radius: 50%; border: 2px solid #00a6ec;" src="https://yt3.googleusercontent.com/VojBwznR4wi8IqYFPSntpFvm-Em3tI5uz6EzDnYday9ponkeT7fybPcT7qufhpUHSQL6Af8fdgA=s120-c-k-c0x00ffffff-no-rj" alt="MS Logo"> <div> <h2 style="padding: 0; margin: 0; font-family: sans-serif; font-weight: bolder; font-size: 22px; color: white;">Mohamed Suliman</h2> <p style="padding: 0; margin: 0; font-family: sans-serif; color: gray; font-size: 14px;">@mhmdsulimn</p> </div> </div> <a style="text-decoration: none; color: white;" href="https://github.com/mhmdsulimn"> <button style="padding: 7px 12px; background-color: whitesmoke; border: 1px solid #00000011; color: black; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 14px; display: flex; align-items: center; gap: 5px;"> <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" alt="Github Logo" style="width: 20px; height: 20px; margin-right: 5px;"> Follow </button> </a> </div>
 ```
+
+<br>
 </details>
 
 <br><img align="center" width="100%" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line"/>
