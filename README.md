@@ -124,7 +124,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><img src="https://img.shields.io/badge/OS:-purple"> <img src="https://img.shields.io/badge/Windows 10-blue"></li>
+  	    <li><img src="https://img.shields.io/badge/OS:-purple"> <img src="https://img.shields.io/badge/Windows 10 & Ubuntu-blue"></li>
 	    <li><img src="https://img.shields.io/badge/Laptop:-purple"> <img src="https://img.shields.io/badge/hp EliteBook G2-blue"></li>
 	    <li><img src="https://img.shields.io/badge/Browser:-purple"> <img src="https://img.shields.io/badge/Brave & Yandex-blue"></li>
 	    <li><img src="https://img.shields.io/badge/Code Editor:-purple"> <img src="https://img.shields.io/badge/Visual Studio Code-blue"></li>
