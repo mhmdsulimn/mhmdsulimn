@@ -23,7 +23,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/mhmdsulimn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn Logo" />
 </a>
 
   <a href="mhmdsulimn.dev@gmail.com" target="_blank">
