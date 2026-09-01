@@ -22,9 +22,9 @@
     <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=252529&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
   </a>
   
-  <a href="https://t.me/mhmdsulimn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/mhmdsulimn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+</a>
 
   <a href="mhmdsulimn.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=d14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
